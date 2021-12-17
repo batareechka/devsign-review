@@ -78,12 +78,12 @@ A checklist that intends to help both sides: **_designers_** to prepare their mo
 ## Forms :ballot_box_with_check:
 - [ ] All forms have title to provide basic instructions and context.
 - [ ] All the form fields (inputs, selects, checkboxes, radio buttons, etc.) have the following states clearly defined (the Style guide is the best document to specify this once and use consistenly):
-      - default
-      - hover (when mouseover, if needed)
-      - focus (when enter the data, from keyboard, probably the global pattern)
-      - active (when mousedown/pressed, if needed)
-      - disabled (when input is not available)
-      - error state with a clear message
+  - default
+  - hover (when mouseover, if needed)
+  - focus (when enter the data, from keyboard, probably the global pattern)
+  - active (when mousedown/pressed, if needed)
+  - disabled (when input is not available)
+  - error state with a clear message
 - [ ] Indicators of required/optional fields are provided.
 - [ ] Error state for the whole form with a clear message is defined (if needed).
 - [ ] Primary and Secondary actions are provided with clear labels and are used following common practices.
